@@ -1,0 +1,6 @@
+package musicstore;
+
+public class Store {
+    // THIS WILL BE THE MAIN CLASS FOR YOUR APPLICATION. YOU CAN CREATE OTHER CLASSES AS NEEDED.
+
+}
