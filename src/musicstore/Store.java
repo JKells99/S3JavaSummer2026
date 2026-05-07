@@ -24,6 +24,8 @@ public class Store {
         System.out.println("1. Guitar - $500");
         System.out.println("2. Piano - $2000");
         System.out.println("3. Drums - $800");
+        System.out.println("4. Violin - $1200");
+        System.out.println("Please select an item to purchase or 0 to go back:");
     }
 
 }
